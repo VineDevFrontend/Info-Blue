@@ -10,5 +10,5 @@ That's site "Info Blue". It's the Information Site for blue pallet color.
 [Youtube Review Site]()
 
 ##Tech stack
-  -HTML
-  -CSS
+-HTML
+-CSS
