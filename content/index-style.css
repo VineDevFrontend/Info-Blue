@@ -90,9 +90,11 @@ body{
 
 #aside-content {
     width: 50%;
+    height: auto;
     float: right;
     position: absolute;
-    right: 0;
+    top: 20%;
+    right: -20%;
 }
 
 
