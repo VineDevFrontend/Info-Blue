@@ -7,7 +7,7 @@ That's site "Info Blue". It's the Information Site for blue pallet color.
 [Info Blue Review](https://vinedevfrontend.github.io/Info-Blue/#main-article)
 
 ##Youtube Review
-[Youtube Review Site]()
+[Youtube Review Site](https://youtu.be/CkaGWDqwCOQ?si=70bkCJJbiNvYPt_Q)
 
 ##Tech stack
 -HTML
