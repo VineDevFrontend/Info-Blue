@@ -18,6 +18,7 @@ That's site "Info Blue". It's the Information Site for blue pallet color.
 ![Preview](./assets/info-blue-screen-03.png)
 
 ##Tech stack
+
 -HTML
+
 -CSS
--Responsive Design
