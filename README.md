@@ -20,3 +20,4 @@ That's site "Info Blue". It's the Information Site for blue pallet color.
 ##Tech stack
 -HTML
 -CSS
+-Responsive Design
